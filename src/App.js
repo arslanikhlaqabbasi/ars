@@ -1,10 +1,11 @@
-import logo from './logo.svg';
+import { Provider } from 'react-redux';
+import store from "redux/store"
 import './App.scss';
 
 function App() {
   return (
     <div className="App">
-      <p>hello</p>
+      <p>hello arslan</p>
     </div>
   );
 }
